@@ -61,13 +61,13 @@ This validation is need because, locally, the script is configured (by the Task 
 In case the update is possible:
 
 
-![enter image description here](https://i.ibb.co/M9QP77H/Countdown.png)
+![Countdown](https://user-images.githubusercontent.com/43574088/91850510-f6813d00-ec5d-11ea-8bec-4eaaf55d6103.png)
 
 * [x]  Answer when mentioned, `answerWhenMentioned()`
 
 The bot replies (when the script is run by the task manager) with a fixed sentence to tweets mentioning it:
 
-![enter image description here](https://i.ibb.co/r4F3WH9/mention.png)
+![mention](https://user-images.githubusercontent.com/43574088/91850509-f5e8a680-ec5d-11ea-83d1-9f5333910d22.png)
 
 
 **Future possible upgrades:**
